@@ -12,7 +12,7 @@
 	
 	<groupId>com.tomfitton</groupId>
 	<artifactId>smartorder-api</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>smartorder-api</name>
 	<description>Smart Order - API</description>
 	
