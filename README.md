@@ -18,7 +18,7 @@ aws ecr get-login-password --region REGION | docker login --username AWS --ECR_R
 
 **Tag Image**
 
-docker tag ECR_REPO_URL/APPLICATION:VERSION
+docker tag DOCKER_IMAGE:VERSION ECR_REPO_URL/APPLICATION:VERSION
 
 **Push Image**
 
