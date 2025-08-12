@@ -1,10 +1,10 @@
-package com.tomfitton.smartorder;
+package com.tomfitton.smartorder.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SmartorderApplicationTests {
+class SmartorderApiApplicationTests {
 
 	@Test
 	void contextLoads() {

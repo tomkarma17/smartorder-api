@@ -1,13 +1,13 @@
-package com.tomfitton.smartorder;
+package com.tomfitton.smartorder.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SmartorderApplication {
+public class SmartorderApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SmartorderApplication.class, args);
+		SpringApplication.run(SmartorderApiApplication.class, args);
 	}
 
 }
